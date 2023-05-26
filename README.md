@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SegaGLm
+- 👋 Hi, I’m Sergei
 - 👀 I’m interested in work with Big Data
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
