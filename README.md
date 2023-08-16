@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Digital Marketing Specialist / Data Analyst
 -------------------------------------------
 
-I am a digital marketing specialist with 10 years of experience. I have always liked working with analytics systems and started learning Python, SQL, Java Script, HTML, CSS, to work with big dates and understand how frontend work.
+I am a digital marketing specialist with 10 years of experience. I have always liked working with analytics systems and started learning Python, SQL, Java Script, HTML, CSS, to work with big dates and understand how frontend work. I successfully apply the acquired skills in my work.
 
 * 🌍  I'm based in Thailand, Koh Samui
 * ✉️  You can contact me at [sega.glm@gmail.com](mailto:sega.glm@gmail.com)
