@@ -15,7 +15,12 @@ I am a digital marketing specialist with 10 years of experience. I have always l
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON
+- Python &#x1F40D;
+- SQL &#x1F4DD;
+- HTML &#x1F4D8;
+- CSS &#x1F3A8;
+- JavaScript &#x1F3AE;
+
 </p>
 
 
