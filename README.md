@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sergei
 - 👀 I’m interested in work with Big Data
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on long term
 - 📫 How to reach me: sega.glm@gmail.com
 
 <!---
