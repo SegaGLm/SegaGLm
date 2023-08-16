@@ -1,3 +1,11 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+- Python <i class="fab fa-python"></i>
+- SQL <i class="fas fa-database"></i>
+- HTML <i class="fab fa-html5"></i>
+- CSS <i class="fab fa-css3-alt"></i>
+- JavaScript <i class="fab fa-js"></i>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Serge Gritsenko
 =======================================================================================================================================
 
