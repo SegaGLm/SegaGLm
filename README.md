@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
 
 - Python <i class="fab fa-python"></i>
 - SQL <i class="fas fa-database"></i>
@@ -40,3 +44,8 @@ I am a digital marketing specialist with 10 years of experience. I have always l
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/SegaGLm/skill_factory_ds" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SegaGLm&repo=skill_factory_ds&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+</body>
+</html>
+
