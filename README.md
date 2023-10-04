@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Serge Gritsenko
 =======================================================================================================================================
 
-Digital Marketing Specialist / Data Analyst
+Data Analyst / Data Science
 -------------------------------------------
 
-I am a digital marketing specialist with 10 years of experience. I have always liked working with analytics systems and started learning Python, SQL, Java Script, HTML, CSS, to work with big dates and understand how frontend work. I successfully apply the acquired skills in my work.
+I am a digital marketing specialist with 10 years of experience. Now Im working with analytics systems and learning Python, SQL, Java Script, HTML, CSS, to work with big dates and understand how frontend work. I successfully apply the acquired skills in my work.
 
 * 🌍  I'm based in Thailand, Koh Samui
 * ✉️  You can contact me at [sega.glm@gmail.com](mailto:sega.glm@gmail.com)
 * 🧠  I'm learning Data Science
-* 🤝  I'm open to collaborating on Work with analytics systems and big date
+* 🤝  I'm open to collaborating on Work with analytics systems and big data
 
 ### Skills
 
