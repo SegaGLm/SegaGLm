@@ -9,7 +9,7 @@ I am a Digital Marketing Specialist with 10 years of experience. To analyze the 
 * 🌍  I'm based in Thailand, Koh Samui
 * ✉️  You can contact me at [sega.glm@gmail.com](mailto:sega.glm@gmail.com)
 * 🧠  I'm learning Data Science
-* 🤝  I'm open to collaborating on Work with analytics systems and big data
+* 🤝  I'm open to collaborating on Work with Data Analysis and Data Science
 
 ### Skills
 
