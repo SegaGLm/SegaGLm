@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Data Analyst / Data Science
 -------------------------------------------
 
-I am a Digital Marketing Specialist with 10 years of experience. To analyze the effectiveness of advertising campaigns and optimize them, every marketer needs to be able to work with analytical systems. This is how I gained experience working with marketing and web analytics and started working with Big Data. Now I am working with Data Analysis and Data Science projects using Python, SQL and other tools.
+With a decade of experience as a Digital Marketing Specialist, I've honed my skills in analyzing and optimizing advertising campaigns. This journey began with the necessity for marketers to leverage analytical systems to assess campaign effectiveness. Through this experience, I developed expertise in marketing and web analytics, which eventually led me to explore the vast world of Big Data. Currently, I actively engage in Data Analysis and Data Science projects, utilizing Python, SQL, and a range of other relevant tools.
 
 * 🌍  I'm based in Thailand, Koh Samui
 * ✉️  You can contact me at [sega.glm@gmail.com](mailto:sega.glm@gmail.com)
